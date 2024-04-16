@@ -7,6 +7,9 @@ Serve as a user-friendly interface for accessing detailed insights into the loan
 # Benefits
 Provides a holistic snapshot of essential loan information, acting as a one-stop solution for users seeking comprehensive loan data.
 
+![image](https://github.com/ashutoshcgm/Bank-Loan-Report/assets/87574252/0dab25a7-6177-4905-aecb-c64d60eabb83)
+
+
 # Here's a concise summary of the Bank Report Dashboard:
 
 1. Total Loan Applications: Track total applications received, MTD applications, and MoM changes.
@@ -17,6 +20,9 @@ Provides a holistic snapshot of essential loan information, acting as a one-stop
 6. Grid View Report: Categorize by 'Loan Status' and include metrics like total applications, funded amount, amount received, MTD funding,
    MTD receipts, average interest rate, and average DTI.
 
+![image](https://github.com/ashutoshcgm/Bank-Loan-Report/assets/87574252/c64927d5-76c2-4eac-87ff-e0b89c3e23de)
+
+   
 # Here's a overview of the Bank Loan Dashboard:
 
 1. Monthly Trends by Issue Date: Identify seasonal and long-term lending trends.
@@ -25,3 +31,6 @@ Provides a holistic snapshot of essential loan information, acting as a one-stop
 4. Employee Length Analysis: Assess lending metrics based on borrower employment history.
 5. Loan Purpose Breakdown: Visualize loan metrics based on stated purposes.
 6. Home Ownership Analysis: Understand how home ownership impacts loan applications and disbursements.
+
+![image](https://github.com/ashutoshcgm/Bank-Loan-Report/assets/87574252/062a069e-e86c-44f3-95da-0388e1ab9220)
+
